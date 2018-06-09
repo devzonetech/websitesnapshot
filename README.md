@@ -1,4 +1,3 @@
-# websitesnapshot
 # WebSiteSnapshot PHP class
 
 [ Devzone Tech Ltd.](https://www.devzonetech.com/)
